@@ -1,5 +1,5 @@
-Gerber_PCB_Bachelor 4 bat.zip er filen for PCB utlegget med 4 batterier.
-Gerber_PCB_Bachelor 6 bat.zip er filen for PCB utlegget med 6 batterier.
+Gerber_PCB_4BAT.zip er filen for PCB utlegget med 4 batterier.
+Gerber_PCB_6BAT.zip er filen for PCB utlegget med 6 batterier.
 
 Gruppen har bestilt kretskortene fra JLCPCB.
 Dersom stencil fra bachelorprosjektet ikke er tilgjengelig, kan denne også bestilles via JLCPCB. 

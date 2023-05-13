@@ -1,7 +1,7 @@
 Gerber_PCB_4BAT.zip er filen for PCB utlegget med 4 batterier.
 Gerber_PCB_6BAT.zip er filen for PCB utlegget med 6 batterier.
 
-Dersom 6 batterier skal benyttes må kondensator C1 byttes til 0.33µF/330nF.
+Dersom 6 batterier skal benyttes må kondensator C1 byttes til 0.33µF/330nF, og Number_of_cell må byttes til 6 i kildekoden.
 
 Gruppen har bestilt kretskortene fra JLCPCB.
 Dersom stencil fra bachelorprosjektet ikke er tilgjengelig, kan denne også bestilles via JLCPCB. 
